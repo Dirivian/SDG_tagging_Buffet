@@ -4,3 +4,4 @@ tk==0.1.0
 requests==2.23.0
 Pillow >= 7
 xlrd >= 1.0.0
+openpyxl
